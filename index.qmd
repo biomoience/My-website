@@ -1,0 +1,17 @@
+---
+title: "Jeongmo Kim"
+---
+
+
+### Understanding human biology through rare genetic disease.
+
+
+
+
+
+
+[Research](research.qmd)
+
+[Rare Disease Library](rare-disease.qmd)
+
+[Publications](publications.qmd)

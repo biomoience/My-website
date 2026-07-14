@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Jeongmo Kim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Research
+      - href: rare-disease.qmd
+        text: Rare Disease Library
+      - href: publications.qmd
+        text: Publications
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
