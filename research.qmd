@@ -2,4 +2,53 @@
 title: "Research"
 ---
 
-This page will introduce my research interests and projects.
+## Research Overview
+
+My research aims to understand how genetic alterations reshape cellular behavior and contribute to disease.
+
+I am particularly interested in using rare genetic diseases and tumor-associated mutations as biological models to uncover fundamental mechanisms of human biology.
+
+## Current Research Areas
+
+### NF2 and Tumor Biology
+
+I study how loss of NF2 alters cellular signaling, tissue homeostasis, and tumor development.
+
+This work focuses on identifying molecular changes that may explain the growth and progression of NF2-associated tumors.
+
+### Cellular Signaling
+
+I am interested in how signaling networks control cell growth, survival, metabolism, and differentiation.
+
+My current work examines pathways involved in tumor biology and disease-associated cellular dysfunction.
+
+### Cholesterol Metabolism
+
+Abnormal cholesterol regulation can influence membrane organization, signaling, and cell growth.
+
+I investigate how altered cholesterol metabolism may contribute to disease phenotypes and tumor progression.
+
+### Rare Genetic Disease
+
+Rare genetic diseases provide precise biological models in which a specific genetic change can reveal the function of a gene, pathway, or cellular process.
+
+I use these diseases as a framework for understanding broader principles of human biology.
+
+## Experimental Approaches
+
+My research uses a combination of:
+
+- Cell culture models
+- Molecular and biochemical assays
+- Western blotting
+- Fluorescence imaging
+- Cell viability and proliferation assays
+- Animal disease models
+- Genetic manipulation
+- Functional analysis of signaling pathways
+
+## Long-Term Direction
+
+My long-term goal is to connect genetic variation with molecular mechanisms, cellular phenotypes, and disease development.
+
+Through this approach, I hope to build a deeper and more integrated understanding of human biology.

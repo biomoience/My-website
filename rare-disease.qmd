@@ -1,5 +1,18 @@
 ---
 title: "Rare Disease Library"
+page-layout: full
+listing:
+  contents: diseases
+  type: table
+  sort: "title asc"
+  filter-ui: true
+  fields:
+    - title
+    - description
+    - gene
+    - categories
 ---
 
-This page will collect my rare genetic disease study notes.
+This library organizes rare genetic diseases as biological models for understanding human biology.
+
+Use the search box to find a disease, gene, organ system, or biological feature.

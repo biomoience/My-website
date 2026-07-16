@@ -1,0 +1,40 @@
+---
+title: "Aagenaes Syndrome"
+description: "A rare disorder characterized by neonatal cholestasis and progressive lymphedema."
+gene: "Unknown"
+categories:
+  - Liver
+  - Lymphatic system
+  - Cholestasis
+order: 1
+---
+
+## Overview
+
+Aagenaes syndrome is a rare inherited disorder characterized by recurrent or persistent cholestasis beginning in infancy and the later development of lymphedema.
+
+## Genetics
+
+The precise genetic cause has not yet been fully established.
+
+## Pathophysiology
+
+The disease affects bile flow in the liver and lymphatic function. The relationship between these two abnormalities remains an important biological question.
+
+## Clinical Features
+
+- Neonatal or childhood cholestasis
+- Jaundice
+- Pruritus
+- Progressive lymphedema
+- Risk of chronic liver disease
+
+## Research Questions
+
+- What molecular defect links cholestasis and lymphatic dysfunction?
+- Which cell types are primarily affected?
+- Why does lymphedema often appear later than liver symptoms?
+
+## References
+
+References will be added later.

@@ -2,4 +2,29 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+I am a biologist interested in understanding human biology through the study of rare genetic diseases.
+
+Rare diseases often arise from highly specific molecular changes. Because of this, they can reveal biological mechanisms that are difficult to uncover in more complex conditions.
+
+## Research Philosophy
+
+I approach rare genetic disease not only as a clinical problem, but also as a window into fundamental human biology.
+
+My goal is to identify the molecular principles that connect genetic variation, cellular behavior, tissue dysfunction, and disease.
+
+## Current Interests
+
+- Rare genetic diseases
+- Tumor biology
+- NF2-associated disease
+- Cell signaling
+- Cholesterol metabolism
+- Experimental disease models
+
+## This Website
+
+This website serves as a growing digital research space.
+
+I use it to organize my research, publications, rare disease notes, and ideas that may develop into future projects.

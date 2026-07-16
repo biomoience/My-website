@@ -1,17 +1,73 @@
 ---
-title: "Jeongmo Kim"
+title: ""
+page-layout: full
+toc: false
 ---
 
+```{=html}
+<section class="home-motto">
+  <h1>
+    Understanding Human Biology<br>
+    Through Rare Genetic Diseases
+  </h1>
+</section>
 
-#### Understanding human biology through rare genetic disease.
+<section class="recent-section">
+  <h2>Recent</h2>
 
+  <div class="recent-slider">
 
+    <article class="recent-card">
+      <a href="rare-disease.html">
+        <img
+          src="images/home/disease.jpg"
+          alt="Rare disease article"
+        >
 
+        <div class="recent-overlay">
+          <span class="recent-category">Rare Diseases</span>
+          <h3>Aagenaes Syndrome</h3>
+          <p>
+            Cholestasis, lymphedema, and the biological questions connecting them.
+          </p>
+        </div>
+      </a>
+    </article>
 
+    <article class="recent-card">
+      <a href="explorations.html">
+        <img
+          src="images/home/exploration.jpg"
+          alt="Exploration article"
+        >
 
+        <div class="recent-overlay">
+          <span class="recent-category">Explorations</span>
+          <h3>How Does Bile Flow?</h3>
+          <p>
+            From liver structure to bile canaliculi and enterohepatic circulation.
+          </p>
+        </div>
+      </a>
+    </article>
 
-[Research](research.html)
+    <article class="recent-card">
+      <a href="essays.html">
+        <img
+          src="images/home/essay.jpg"
+          alt="Essay article"
+        >
 
-[Rare Disease Library](rare-disease.qmd)
+        <div class="recent-overlay">
+          <span class="recent-category">Essays</span>
+          <h3>Learning Through Experience</h3>
+          <p>
+            Reflections on music, competitions, travel, research, and life.
+          </p>
+        </div>
+      </a>
+    </article>
 
-[Publications](publications.qmd)
+  </div>
+</section>
+```
