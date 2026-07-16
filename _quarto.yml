@@ -1,6 +1,7 @@
 project:
   type: website
-
+  resources:
+    - CNAME
 website:
   title: "Jeongmo Kim"
   site-url: "https://biomoience.com"
