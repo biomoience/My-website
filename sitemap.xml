@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biomoience.github.io/My-website/research.html</loc>
-    <lastmod>2026-07-14T00:43:45.044Z</lastmod>
+    <loc>https://biomoience.com/research.html</loc>
+    <lastmod>2026-07-15T00:35:57.435Z</lastmod>
   </url>
   <url>
-    <loc>https://biomoience.github.io/My-website/publications.html</loc>
-    <lastmod>2026-07-14T00:43:45.046Z</lastmod>
+    <loc>https://biomoience.com/publications.html</loc>
+    <lastmod>2026-07-15T00:34:21.458Z</lastmod>
   </url>
   <url>
-    <loc>https://biomoience.github.io/My-website/about.html</loc>
-    <lastmod>2026-07-14T00:43:45.045Z</lastmod>
+    <loc>https://biomoience.com/diseases/aagenaes-synerome.html</loc>
+    <lastmod>2026-07-15T00:41:26.873Z</lastmod>
   </url>
   <url>
-    <loc>https://biomoience.github.io/My-website/index.html</loc>
-    <lastmod>2026-07-14T00:43:45.046Z</lastmod>
+    <loc>https://biomoience.com/about.html</loc>
+    <lastmod>2026-07-15T00:35:22.641Z</lastmod>
   </url>
   <url>
-    <loc>https://biomoience.github.io/My-website/rare-disease.html</loc>
-    <lastmod>2026-07-14T00:43:45.047Z</lastmod>
+    <loc>https://biomoience.com/index.html</loc>
+    <lastmod>2026-07-16T00:26:37.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biomoience.com/rare-disease.html</loc>
+    <lastmod>2026-07-15T00:41:46.426Z</lastmod>
   </url>
 </urlset>

@@ -1,1 +1,335 @@
-/* css styles */
+/* ==================================================
+   Global
+================================================== */
+
+:root {
+  --page-width: 1180px;
+  --text-color: #1f2933;
+  --card-radius: 24px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--text-color);
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+main.content {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ==================================================
+   Home motto
+================================================== */
+
+.home-motto {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 42vh;
+  padding: 0.8rem 1.5rem 1rem;
+
+  text-align: center;
+}
+
+.home-motto h1 {
+  max-width: 1400px;
+  margin: 0;
+  color: #111111;
+  font-size: clamp(2.2rem, 4.8vw, 4.8rem);
+  font-weight: 650;
+  line-height: 1.18;
+  letter-spacing: -0.035em;
+}
+
+body.quarto-dark .home-motto h1 {
+  color: #f2f3f5;
+}
+body.quarto-dark .home-motto h1 {
+  color: #f2f3f5 !important;
+}
+
+.home-motto {
+  width: min(1400px, calc(100% - 3rem));
+  max-width: none;
+  margin: 0 auto;
+}
+
+/* ==================================================
+   Recent section
+================================================== */
+
+.recent-section {
+  margin-top: -1rem;
+  padding-bottom: 4rem;
+}
+
+.recent-section > h2 {
+  max-width: var(--page-width);
+  margin: 0 auto 0.7rem;
+  padding: 0 1.5rem;
+
+  font-size: 2rem;
+  font-weight: 650;
+}
+
+/* ==================================================
+   Horizontal slider
+================================================== */
+
+.recent-slider {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: min(78vw, 760px);
+  gap: 1.5rem;
+
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: 0 1.5rem 1.5rem;
+
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+
+  scroll-snap-type: inline mandatory;
+  scroll-padding-inline: 1.5rem;
+
+  scrollbar-width: thin;
+}
+
+.recent-slider::-webkit-scrollbar {
+  height: 9px;
+}
+
+.recent-slider::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.recent-slider::-webkit-scrollbar-thumb {
+  background: rgba(80, 80, 80, 0.35);
+  border-radius: 999px;
+}
+
+/* ==================================================
+   Recent card
+================================================== */
+
+.recent-card {
+  position: relative;
+  height: 480px;
+
+  overflow: hidden;
+  scroll-snap-align: start;
+
+  border-radius: var(--card-radius);
+  background: #222;
+
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.2);
+}
+
+.recent-card a {
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  color: white;
+  text-decoration: none;
+}
+
+.recent-card img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  transition: transform 0.45s ease;
+}
+
+.recent-card:hover img {
+  transform: scale(1.035);
+}
+
+.recent-card::after {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  pointer-events: none;
+
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.88) 0%,
+    rgba(0, 0, 0, 0.28) 58%,
+    rgba(0, 0, 0, 0.04) 100%
+  );
+}
+
+/* ==================================================
+   Recent card text
+================================================== */
+
+.recent-overlay {
+  position: absolute;
+  z-index: 2;
+
+  right: 2.5rem;
+  bottom: 2.5rem;
+  left: 2.5rem;
+}
+
+.recent-category {
+  display: inline-block;
+
+  margin-bottom: 0.75rem;
+  padding: 0.4rem 0.75rem;
+
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 999px;
+
+  background: rgba(0, 0, 0, 0.25);
+
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+
+  backdrop-filter: blur(6px);
+}
+
+.recent-overlay h3 {
+  margin: 0 0 0.7rem;
+
+  color: white;
+
+  font-size: clamp(2rem, 4vw, 3.3rem);
+  line-height: 1.05;
+}
+
+.recent-overlay p {
+  max-width: 600px;
+  margin: 0;
+
+  color: rgba(255, 255, 255, 0.9);
+
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+
+/* ==================================================
+   Dark mode
+================================================== */
+
+body.quarto-dark {
+  --text-color: #f2f3f5;
+}
+
+body.quarto-dark .recent-slider::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* ==================================================
+   Tablet and mobile
+================================================== */
+
+@media (max-width: 768px) {
+  .home-motto {
+    min-height: 55vh;
+    padding: 4rem 1.2rem;
+  }
+
+  .home-motto h1 {
+    font-size: clamp(2.4rem, 10vw, 4rem);
+    line-height: 1.1;
+  }
+
+  .recent-section > h2 {
+    padding-inline: 1rem;
+    font-size: 1.65rem;
+  }
+
+  .recent-slider {
+    grid-auto-columns: 88vw;
+    gap: 1rem;
+
+    padding-inline: 1rem;
+    scroll-padding-inline: 1rem;
+  }
+
+  .recent-card {
+    height: 430px;
+    border-radius: 18px;
+  }
+
+  .recent-overlay {
+    right: 1.5rem;
+    bottom: 1.7rem;
+    left: 1.5rem;
+  }
+
+  .recent-overlay p {
+    font-size: 1rem;
+  }
+}
+
+/* ==================================================
+   Small mobile
+================================================== */
+
+@media (max-width: 480px) {
+  .home-motto {
+    min-height: 48vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .home-motto h1 {
+    font-size: clamp(2.1rem, 10.5vw, 3.1rem);
+  }
+
+  .recent-card {
+    height: 390px;
+  }
+
+  .recent-overlay h3 {
+    font-size: 2rem;
+  }
+}
+
+/* Keep the motto identical in light and dark mode */
+
+.home-motto {
+  width: 100%;
+  max-width: none;
+}
+
+.home-motto h1,
+body.quarto-dark .home-motto h1 {
+  width: 100%;
+  max-width: none;
+
+  margin: 0 auto;
+
+  font-family: inherit !important;
+  font-size: clamp(2rem, 4vw, 4rem) !important;
+  font-weight: 650 !important;
+  line-height: 1.18 !important;
+  letter-spacing: -0.03em !important;
+  white-space: nowrap;
+}
+@media (max-width: 768px) {
+  .home-motto h1,
+  body.quarto-dark .home-motto h1 {
+    font-size: clamp(1.5rem, 6vw, 2.5rem) !important;
+    white-space: normal;
+  }
+}

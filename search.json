@@ -4,7 +4,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This page will introduce my research interests and projects."
+    "text": "My research aims to understand how genetic alterations reshape cellular behavior and contribute to disease.\nI am particularly interested in using rare genetic diseases and tumor-associated mutations as biological models to uncover fundamental mechanisms of human biology."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research aims to understand how genetic alterations reshape cellular behavior and contribute to disease.\nI am particularly interested in using rare genetic diseases and tumor-associated mutations as biological models to uncover fundamental mechanisms of human biology."
+  },
+  {
+    "objectID": "research.html#current-research-areas",
+    "href": "research.html#current-research-areas",
+    "title": "Research",
+    "section": "Current Research Areas",
+    "text": "Current Research Areas\n\nNF2 and Tumor Biology\nI study how loss of NF2 alters cellular signaling, tissue homeostasis, and tumor development.\nThis work focuses on identifying molecular changes that may explain the growth and progression of NF2-associated tumors.\n\n\nCellular Signaling\nI am interested in how signaling networks control cell growth, survival, metabolism, and differentiation.\nMy current work examines pathways involved in tumor biology and disease-associated cellular dysfunction.\n\n\nCholesterol Metabolism\nAbnormal cholesterol regulation can influence membrane organization, signaling, and cell growth.\nI investigate how altered cholesterol metabolism may contribute to disease phenotypes and tumor progression.\n\n\nRare Genetic Disease\nRare genetic diseases provide precise biological models in which a specific genetic change can reveal the function of a gene, pathway, or cellular process.\nI use these diseases as a framework for understanding broader principles of human biology."
+  },
+  {
+    "objectID": "research.html#experimental-approaches",
+    "href": "research.html#experimental-approaches",
+    "title": "Research",
+    "section": "Experimental Approaches",
+    "text": "Experimental Approaches\nMy research uses a combination of:\n\nCell culture models\nMolecular and biochemical assays\nWestern blotting\nFluorescence imaging\nCell viability and proliferation assays\nAnimal disease models\nGenetic manipulation\nFunctional analysis of signaling pathways"
+  },
+  {
+    "objectID": "research.html#long-term-direction",
+    "href": "research.html#long-term-direction",
+    "title": "Research",
+    "section": "Long-Term Direction",
+    "text": "Long-Term Direction\nMy long-term goal is to connect genetic variation with molecular mechanisms, cellular phenotypes, and disease development.\nThrough this approach, I hope to build a deeper and more integrated understanding of human biology."
   },
   {
     "objectID": "publications.html",
@@ -14,24 +42,101 @@
     "text": "This page will list my publications and presentations."
   },
   {
+    "objectID": "diseases/aagenaes-synerome.html",
+    "href": "diseases/aagenaes-synerome.html",
+    "title": "Aagenaes Syndrome",
+    "section": "",
+    "text": "Aagenaes syndrome is a rare inherited disorder characterized by recurrent or persistent cholestasis beginning in infancy and the later development of lymphedema."
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#overview",
+    "href": "diseases/aagenaes-synerome.html#overview",
+    "title": "Aagenaes Syndrome",
+    "section": "",
+    "text": "Aagenaes syndrome is a rare inherited disorder characterized by recurrent or persistent cholestasis beginning in infancy and the later development of lymphedema."
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#genetics",
+    "href": "diseases/aagenaes-synerome.html#genetics",
+    "title": "Aagenaes Syndrome",
+    "section": "Genetics",
+    "text": "Genetics\nThe precise genetic cause has not yet been fully established."
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#pathophysiology",
+    "href": "diseases/aagenaes-synerome.html#pathophysiology",
+    "title": "Aagenaes Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nThe disease affects bile flow in the liver and lymphatic function. The relationship between these two abnormalities remains an important biological question."
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#clinical-features",
+    "href": "diseases/aagenaes-synerome.html#clinical-features",
+    "title": "Aagenaes Syndrome",
+    "section": "Clinical Features",
+    "text": "Clinical Features\n\nNeonatal or childhood cholestasis\nJaundice\nPruritus\nProgressive lymphedema\nRisk of chronic liver disease"
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#research-questions",
+    "href": "diseases/aagenaes-synerome.html#research-questions",
+    "title": "Aagenaes Syndrome",
+    "section": "Research Questions",
+    "text": "Research Questions\n\nWhat molecular defect links cholestasis and lymphatic dysfunction?\nWhich cell types are primarily affected?\nWhy does lymphedema often appear later than liver symptoms?"
+  },
+  {
+    "objectID": "diseases/aagenaes-synerome.html#references",
+    "href": "diseases/aagenaes-synerome.html#references",
+    "title": "Aagenaes Syndrome",
+    "section": "References",
+    "text": "References\nReferences will be added later."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a biologist interested in understanding human biology through the study of rare genetic diseases.\nRare diseases often arise from highly specific molecular changes. Because of this, they can reveal biological mechanisms that are difficult to uncover in more complex conditions."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am a biologist interested in understanding human biology through the study of rare genetic diseases.\nRare diseases often arise from highly specific molecular changes. Because of this, they can reveal biological mechanisms that are difficult to uncover in more complex conditions."
+  },
+  {
+    "objectID": "about.html#research-philosophy",
+    "href": "about.html#research-philosophy",
+    "title": "About",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nI approach rare genetic disease not only as a clinical problem, but also as a window into fundamental human biology.\nMy goal is to identify the molecular principles that connect genetic variation, cellular behavior, tissue dysfunction, and disease."
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "About",
+    "section": "Current Interests",
+    "text": "Current Interests\n\nRare genetic diseases\nTumor biology\nNF2-associated disease\nCell signaling\nCholesterol metabolism\nExperimental disease models"
+  },
+  {
+    "objectID": "about.html#this-website",
+    "href": "about.html#this-website",
+    "title": "About",
+    "section": "This Website",
+    "text": "This Website\nThis website serves as a growing digital research space.\nI use it to organize my research, publications, rare disease notes, and ideas that may develop into future projects."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jeongmo Kim",
+    "title": "\n    Understanding Human Biology\n    Through Rare Genetic Diseases\n  ",
     "section": "",
-    "text": "Understanding human biology through rare genetic disease.\nResearch\nRare Disease Library\nPublications"
+    "text": "Understanding Human Biology\n    Through Rare Genetic Diseases\n  \n\n\n\n  Recent\n\n  \n\n    \n      \n        \n\n        \n          Rare Diseases\n          Aagenaes Syndrome\n          \n            Cholestasis, lymphedema, and the biological questions connecting them.\n          \n        \n      \n    \n\n    \n      \n        \n\n        \n          Explorations\n          How Does Bile Flow?\n          \n            From liver structure to bile canaliculi and enterohepatic circulation.\n          \n        \n      \n    \n\n    \n      \n        \n\n        \n          Essays\n          Learning Through Experience\n          \n            Reflections on music, competitions, travel, research, and life."
   },
   {
     "objectID": "rare-disease.html",
     "href": "rare-disease.html",
     "title": "Rare Disease Library",
     "section": "",
-    "text": "This page will collect my rare genetic disease study notes."
+    "text": "This library organizes rare genetic diseases as biological models for understanding human biology.\nUse the search box to find a disease, gene, organ system, or biological feature.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\ngene\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAagenaes Syndrome\n\n\nA rare disorder characterized by neonatal cholestasis and progressive lymphedema.\n\n\nUnknown\n\n\nLiver, Lymphatic system, Cholestasis\n\n\n\n\n\n\nNo matching items"
   }
 ]

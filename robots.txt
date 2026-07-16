@@ -1,1 +1,1 @@
-Sitemap: https://biomoience.github.io/My-website/sitemap.xml
+Sitemap: https://biomoience.com/sitemap.xml
